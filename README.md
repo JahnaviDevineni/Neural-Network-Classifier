@@ -1,4 +1,3 @@
-# Neural-Network-Classifier
 # Breast Cancer Classification using Neural Network
 
 This project implements a feedforward neural network classifier to diagnose breast cancer based on the UCI Wisconsin dataset. The model predicts whether a tumor is **malignant (M)** or **benign (B)** using various cellular features.
